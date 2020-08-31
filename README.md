@@ -1,6 +1,16 @@
 # tutor-admin-web
 
-在线家教预约平台的后台管理前端，使用**[vue-admin-template](https://panjiachen.gitee.io/vue-admin-template)**作为开发脚手架。
+在线家教预约平台的后台管理前端，使用 [vue-admin-template](https://panjiachen.gitee.io/vue-admin-template) 作为开发脚手架。
+
+[点击查看全部预览](https://github.com/JuchiaLu/tutor-server/blob/master/PREVIEW.md)
+
+![preview01](http://47.107.243.187:9530/tutor-server/preview/preview01.png)
+
+![preview06](http://47.107.243.187:9530/tutor-server/preview/preview06.png)
+
+![preview19](http://47.107.243.187:9530/tutor-server/preview/preview19.png)
+
+![preview26](http://47.107.243.187:9530/tutor-server/preview/preview26.png)
 
 ## 构建
 
