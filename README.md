@@ -4,13 +4,13 @@
 
 [点击查看全部预览](https://github.com/JuchiaLu/tutor-server/blob/master/PREVIEW.md)
 
-![preview01](http://47.107.243.187:9530/tutor-server/preview/preview01.png)
+![preview01](https://raw.githubusercontent.com/JuchiaLu/tutor-server/master/preview/preview01.png)
 
-![preview06](http://47.107.243.187:9530/tutor-server/preview/preview06.png)
+![preview06](https://raw.githubusercontent.com/JuchiaLu/tutor-server/master/preview/preview06.png)
 
-![preview19](http://47.107.243.187:9530/tutor-server/preview/preview19.png)
+![preview19](https://raw.githubusercontent.com/JuchiaLu/tutor-server/master/preview/preview19.png)
 
-![preview26](http://47.107.243.187:9530/tutor-server/preview/preview26.png)
+![preview26](https://raw.githubusercontent.com/JuchiaLu/tutor-server/master/preview/preview26.png)
 
 ## 构建
 
